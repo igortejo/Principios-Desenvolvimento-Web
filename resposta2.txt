@@ -1,0 +1,11 @@
+2) Cite três ferramentas ou tecnologias amplamente usadas no
+desenvolvimento web e explique como elas ajudam no processo
+de criação de aplicações web.
+
+
+- CSS: facilita bastante a estilização das páginas web, deixando o site mais
+atrativo.
+- React.js: ajuda bastante o programador a desenvolver suas aplicações de forma mais rápida,
+uma vez que se baseia na criação de componentes que podem ser reutilizados.
+- JavaScript: linguagem que contriubuiu bastante para a evolução do desenvolviento web,
+pois ela é otimizada para tal atividade.
