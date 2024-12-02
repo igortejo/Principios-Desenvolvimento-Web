@@ -7,4 +7,4 @@ globalmente?
 elementos, como: títulos, parágrafos e links.
 - A WWWW surgiu com o intuito de facilitar o compartilhamento de documentos na web.
 - Essas tecnologias fizeram com que a internet como um todo se desenvolvesse bastante e de
-uma forma mais rápida.
+uma forma muito mais rápida.
