@@ -1,5 +1,5 @@
-# RecuperacaoDaInforma-ao
-Laboratórios desenvolvidos na cadeira de recuperaação da informação na web
+# Principios de Desenvolvimento Web
+Laboratórios desenvolvidos na cadeira principios de desenvolvimento web
 
 
 ● Título: Simulação de Páginas Web Iniciais.
